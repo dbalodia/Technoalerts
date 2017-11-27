@@ -1,0 +1,10 @@
+node_modules
+bower_components
+.idea
+node_modules_
+user-data-files
+image
+*.zip
+.gradle
+*.log
+*.apk
